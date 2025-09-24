@@ -1,0 +1,7 @@
+MonitoringLocationIdentifier,ActivityStartDate,CharacteristicName,ResultMeasureValue,ResultMeasureUnit,Latitude,Longitude,ProjectID,AgencyName
+USGS-01010101,1/15/2024,pH,7.2,unitless,42.3601,-71.0589,PRJ001,USGS
+USGS-01010102,2/10/2024,pH,7,unitless,42.3736,-71.1097,PRJ001,USGS
+USGS-01010103,3/5/2024,pH,7.3,unitless,42.3918,-71.1101,PRJ001,USGS
+USGS-01010101,3/20/2024,pH,7.1,unitless,42.3601,-71.0589,PRJ001,USGS
+USGS-01010104,3/28/2024,pH,6.9,unitless,42.3456,-71.0987,PRJ001,USGS
+USGS-01010102,4/1/2024,pH,7.4,unitless,42.3736,-71.1097,PRJ001,USGS
