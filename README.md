@@ -1,2 +1,6 @@
 # water-quality-ph-sql-project
 SQL-based analysis of Massachusetts water quality (pH levels) using sample EPA-style data from Jan–Apr 2024. Includes data cleaning, aggregation, categorization, and insights aligned with environmental data systems. Built to demonstrate qualifications for an entry-level Systems Analyst role.
+
+
+This graph shows the average pH levels measured at four different monitoring locations. All of the values fall within the EPA’s safe range (between 6.5 and 8.5), though one location is closer to the lower limit, which may indicate slightly more acidic conditions compared to the others. see below for the graph.
+<img width="1216" height="760" alt="image" src="https://github.com/user-attachments/assets/8c4f6e09-bdc8-42bb-838b-2d522b3e839f" />
